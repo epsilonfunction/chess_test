@@ -1,0 +1,6 @@
+Project Title: Chess Game in Python
+Aim: 		1) Create a functional chess game in python with clear graphics for the player to make moves on.
+	
+Features:	1) Allows for 2 player mode
+		2) Allows for singleplayer - choose color
+		3) OOP based characters that allow for game customisation
