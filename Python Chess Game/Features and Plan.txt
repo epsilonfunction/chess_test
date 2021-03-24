@@ -4,3 +4,11 @@ Aim: 		1) Create a functional chess game in python with clear graphics for the p
 Features:	1) Allows for 2 player mode
 		2) Allows for singleplayer - choose color
 		3) OOP based characters that allow for game customisation
+		
+Milestones:	1) Create Board -done-
+		2) Create pieces -in progress-
+			a) Piece colour
+			b) Piece rank
+		3) Pieces Generation at game start
+		4) Enable movement of pieces
+		5) Enable 
